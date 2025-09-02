@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Production Env, Banking App"
   contactDetails:
     name: "Reine Aishrwa -Product Owner"
-    email: "owinymarvin@ceo_bou.com"
+    email: "{cipher}382c07b3839af6bc3f91407b63f76148e6060a3d6451d25fe34166e261fca50a2c7272bb70b7345e181c144f4d232957"
   onCallSupport:
     -(453) 555-1234
     -(453) 523-1345
