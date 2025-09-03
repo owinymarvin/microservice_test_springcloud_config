@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Production Env, Banking App"
+  message: "Welcome to Production Env, Realtime cloud changes applied "
   contactDetails:
     name: "Reine Aishrwa -Product Owner"
     email: "{cipher}382c07b3839af6bc3f91407b63f76148e6060a3d6451d25fe34166e261fca50a2c7272bb70b7345e181c144f4d232957"
