@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Production Env, Banking Loans App"
+  message: "Welcome to Production Env, Realtime cloud changes applied"
   contactDetails:
     name: "Reine Aishrwa -Product Owner"
     email: "owinymarvin@ceo_bou.com"
